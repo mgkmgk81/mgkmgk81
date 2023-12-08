@@ -23,15 +23,12 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 __________________
-### :fire: My Stats :
+Stats :
 
-__________________
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mgkmgk81)](https://git.io/streak-stats)
-__________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgkmgk81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 __________________
-Blog:
-:writing_hand: Blog Posts :
+Blog Posts :
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
